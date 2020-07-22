@@ -16,7 +16,5 @@
 
 <p align="center">
 <a href="https://linkedin.com/in/cahuekokeny" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="cahuekokeny" height="20" width="30" /></a>
-</p>
-<p align="center">
 <a href="https://dev.to/kokeny97" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/dev-dot-to.svg" alt="kokeny97" height="30" width="30" /></a>
 </p>
