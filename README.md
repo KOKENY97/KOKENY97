@@ -21,4 +21,7 @@ src="https://devicons.github.io/devicon/devicon.git/icons/python/python-original
 <p align="center">
 <a href="https://linkedin.com/in/cahuekokeny" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="cahuekokeny" height="20" width="30" /></a>
 <a href="https://dev.to/kokeny97" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/dev-dot-to.svg" alt="kokeny97" height="30" width="30" /></a>
+<a href="https://codepen.io/kokeny97" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/codepen.svg" alt="kokeny97" height="30" width="30" /></a>
+<a href="https://stackoverflow.com/users/kokeny" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/stackoverflow.svg" alt="kokeny" height="30" width="30" /></a>
+<a href="https://medium.com/@cahue.kokeny1" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/medium.svg" alt="@cahue.kokeny1" height="30" width="30" /></a>
 </p>
