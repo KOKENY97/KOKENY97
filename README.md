@@ -2,11 +2,11 @@
 <h3 align="center">Brazilian 💚, skateboarder 🛹, professor 👨‍🏫  and coder 💻</h3>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=kokeny97" alt="kokeny97" /> </p>
 
-- 🔭 I’m currently working on **my programming skills**
+- 🔭 I’m currently working on **iOS developer skills**
 
 - 👯 I’m looking to collaborate on **Beginner's projects**
 
-- 🤔 I’m looking for help with **Full-stack development**
+- 🤔 I’m looking for help with **iOS development**
 
 - 📫 How to reach me **cahue.kokeny@hotmail.com**
 
