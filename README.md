@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Cahue Kökény</h1>
-<h3 align="center">Brazilian 💚, skateboarder 🛹, professor 👨‍🏫  and coder 💻</h3>
+<h3 align="center">Brazilian 💚, skateboarder 🛹 and coder 💻</h3>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=kokeny97" alt="kokeny97" /> </p>
 
 - 🔭 I’m currently working on **iOS developer skills**
