@@ -1,12 +1,12 @@
 <h1 align="center">Hi 👋, I'm Cahue Kökény</h1>
-<h3 align="center">Brazilian 💚, skateboarder 🛹 and coder 💻</h3>
+<h3 align="center">Brasilian 💚, dog lover 🐕​ and IT infrastructure enthusiast</h3>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=kokeny97" alt="kokeny97" /> </p>
 
-- 🔭 I’m currently working on **iOS developer skills**
+- 🔭 I’m currently working on **AWS Cloud Practitioner**
 
-- 👯 I’m looking to collaborate on **Beginner's projects**
+- 👯 I’m looking to collaborate on **Beginner's cloud projects**
 
-- 🤔 I’m looking for help with **iOS development**
+- 🤔 I’m looking for help with **AWS**
 
 - 📫 How to reach me **cahue.kokeny@hotmail.com**
 
